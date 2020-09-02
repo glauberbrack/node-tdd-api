@@ -5,8 +5,8 @@
   "author": "Glauber Brack",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged": "jest"
+    "test": "jest --passWithNoTestss",
+    "test:staged": "jest --passWithNoTests"
   },
   "keywords": [],
   "license": "ISC",
